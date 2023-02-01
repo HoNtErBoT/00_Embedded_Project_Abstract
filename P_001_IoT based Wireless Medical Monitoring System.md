@@ -1,4 +1,4 @@
-# Abstract
+# ABSTRACT
 
 The main aim of this project is to monitor a patient's vitals, and it can detect the patient's real-time body temperature, heart rate, and other physiological information and transmit it to the control center.
 
