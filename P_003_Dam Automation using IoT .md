@@ -10,3 +10,8 @@ Nowadays, water management is an issue of growing concern as there is limited av
 Even today, we have been using traditional methods for managing and monitoring the dam gates and measuring the level of water and other parameters. Many factors contribute towards
 failure of a dam, the most common being overtopping, which is caused by heavy floods. This condition needs constant monitoring to avoid catastrophes such as dam failure, which is not To overcome dam failure and ensure continuous monitoring of dam health, the enabling technology of the Internet of Things (IoT) is used. Through this, the authorities have continuous access to data about the dam's health and can take appropriate decisions.
 Many systems were available for monitoring dams. Among the notable ones related to our research, we are paying attention to the development of autonomous dam gate systems using level sensors and motor controllers. Although the dam gates are automatically controlled using a DC motor,
+
+### DESCRIPTION
+
+The system uses different types of sensors to monitor the dam's parameters. The developed system controls the dam gate automatically by deploying the water level sensors at various stages of the reservoir. Once the dam gate is opened, the outflow of water is calculated by employing a flow sensor, which leads to effective management and utilisation of water.
+
