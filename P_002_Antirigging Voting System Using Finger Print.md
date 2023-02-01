@@ -1,9 +1,9 @@
 # Antirigging Voting System Using Finger Print
 
-## ABSTRACT
+### ABSTRACT
 The aim of this project is to implement the development of an anti-rigging voting system using finger prints. The project's goal is to provide a safe and dependable environment for customers while they vote for candidates using an intelligent electronic voting machine that assigns a unique identity to each user using fingerprint identification technology. 
 
-## DESCRIPTION
+### DESCRIPTION
 
 We will provide the highest level of security in this project because the EVM will be authenticated using finger prints.Intelligent EVM is an embedded-based project. It involves microcontrollers and interfaces.
 
