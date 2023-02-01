@@ -1,13 +1,13 @@
 # IoT based Wireless Medical Monitoring System
-## ABSTRACT
+### ABSTRACT
 
 The main aim of this project is to monitor a patient's vitals, and it can detect the patient's real-time body temperature, heart rate, and other physiological information and transmit it to the control center.
 
-## PURPOSE
+### PURPOSE
 
 Now days the fast development and popularisation of information processing and wireless data transmission technology, the research of wireless Medical Monitoring System has became a hot topic with the help of biomedical sensors. By utilising the wireless technique to transmit information between medical sensors and the monitoring control center, the free space of patients is enlarged, and the efficiency of the modern management of hospitals can be improved.
 
-## DESCRIPTION
+### DESCRIPTION
 
 Now, with the increase of biomedical sensors, we are going into this process of detecting the patient's real-time body temperature, heart rate, and other physiological information. The design of the wireless monitoring terminal and the development of the system software are the two main components of a wireless medical monitoring system.The monitoring terminal generally consists of three modules: the sensor module, the control module, and the wireless communication module.
 
