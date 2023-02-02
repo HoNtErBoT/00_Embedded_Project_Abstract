@@ -4,6 +4,7 @@ This paper presents the hardware design and implementation of a system that ensu
  ## Introduction 
 In remote areas the sun is a cheap source of electricity it uses solar cells to produce electricity. While the output of solar cells depends on the intensity of sunlight and the angle of incidence. It means to get maximum efficiency; the solar panels must remain in front of sun during the whole day. But due to rotation of earth those panels can’t maintain their position always in front of sun. This problem results in decrease of their efficiency. Thus to get a constant output, an automated system is required which should be capable to constantly rotate the solar panel. The Automatic Solar Tracking System (ASTS) was made as a prototype to solve the problem, mentioned above. It is completely automatic and keeps the panel in front of sun until that is visible. The unique feature of this system is that instead of take the earth as in its reference, it takes the sun as a guiding source. Its active sensors constantly monitor the sunlight and rotate the panel towards the direction where the intensity of sunlight is maximum. In case the sun gets invisible e.g. in cloudy weather, then without tracking the sun the ASTS keeps rotating the solar panel in opposite direction to the rotation of earth.
 ## Block diagram
-  
+  ![solartrackingpic](https://user-images.githubusercontent.com/109785046/216248613-866d15a4-e917-4765-8c35-91bb3796a198.png)
+
    
 
