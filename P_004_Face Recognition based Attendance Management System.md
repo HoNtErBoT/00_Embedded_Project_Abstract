@@ -1,13 +1,14 @@
-# Abstract
+# Face Recognition based Attendance Management System
+## Abstract
  In this digital era, face recognition system plays a vital role in almost every sector. Face recognition is one of the mostly used biometrics. It can used for security, authentication, identification, and has got many more advantages.  Despite of having  low  accuracy  when  compared  to  iris  recognition  and fingerprint  recognition,  it  is  being  widely  used  due  to  its contactless  and  non-invasive  process.  Furthermore, face recognition system can also be used for attendance marking in schools, colleges, offices, etc. This  system aims  to build a  class attendance system which uses the concept of face recognition as existing  manual  attendance  system  is  time  consuming  and cumbersome  to maintain.  And there may be chances of proxy attendance. Thus, the need for this system increases. This system consists of four phases- database creation, face detection, face recognition, attendance updation.  Database is created by the images of the students in class. Face detection and recognition is performed using  Haar-Cascade  classifier  and  Local  Binary Pattern  Histogram  algorithm  respectively.  Faces  are  detected and  recognized  from  live  streaming  video  of  the  classroom. Attendance will be stored in a server at the end of the session.<br>
- # Introduction
+ ## Introduction
 The technology aims in imparting a tremendous knowledge oriented technical innovations these days. Deep Learning is one among the interesting domain that enables the machine to train itself by providing some datasets as input and provides an appropriate output during testing by applying different learning algorithms. Nowadays Attendance is considered as an important factor for both the student as well as the teacher of an educational organization. With the advancement of the deep learning technology the machine automatically detects the attendance performance of the students and maintains a record of those collected data. 
 In general, the attendance system of the student can be maintained in two different forms namely,<br>  
 •	Manual Attendance System (MAS)<br> 
 •	Automated Attendance System (AAS). 
 <br><br>
 Manual Student Attendance Management system is a process where a teacher concerned with the particular subject need to call the students name and mark the attendance manually. Manual attendance may be considered as a time-consuming process or sometimes it happens for the teacher to miss someone or students may answer multiple times on the absence of their friends. So, the problem arises when we think about the traditional process of taking attendance in the classroom. To solve all these issues we go with Automatic Attendance System (AAS). Automated Attendance System (AAS) is a process to automatically estimate the presence or the absence of the student in the classroom by using face recognition technology.<br>
-# BlocK Diagram
+## Block Diagram
 ![image](https://user-images.githubusercontent.com/109785046/216241615-62109dea-3894-43ab-9f5f-1314a86c73e8.png)
 
 
