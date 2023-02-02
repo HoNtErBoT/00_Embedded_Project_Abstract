@@ -1,0 +1,6 @@
+# Voice Recognition Based Home Automation Using IoT (Internet of Things)
+## Abstract
+This project presents the design of the low cost home automation system using the IoT (Internet of Things) technology along with the feature of speech recognition. The Internet of things (IoT) is the inter-networking of physical devices, vehicles, buildings, and other items embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data. In this project IoT technology is used to control the home appliances wirelessly over the internet.
+<br><br>In this project we develop an android application with the help of Visual Programming Language and through the application we can control our home devices with our sound and buttons, When we say any command then the android application recognize the sound and generates the essential commands needed to control our home device, These commands was transmitted to the device through Internet Of Thing and the device will control the home applies with the help of a relay module.
+## Block Diagram
+![Voice Recognition Based Home Automation Using IoT (Internet of Things)](https://user-images.githubusercontent.com/109785046/216298084-9857feb3-f0dd-476d-bfcc-b8a9b13f33cb.png)
