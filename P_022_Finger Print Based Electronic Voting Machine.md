@@ -1,0 +1,7 @@
+# Finger Print Based Electronic Voting Machine
+## Abstract
+It has always been an arduous task for the election commission to conduct free and fair polls in our country, the largest democracy in the world. Crores of rupees have been spent on this to make sure that the elections are riot free. But, now- a -days it has become common for some forces to indulge in rigging which may eventually lead to a result contrary to the actual verdict given by the People.<br><br>
+This paper aims to present a new voting system employing biometrics in order to avoid rigging and to enhance the accuracy and speed of the process. The system uses thumb impression for voter identification as we know that the thumb impression of every human being has a unique pattern. Thus it would have an edge over the present day voting systems.<br><br>
+As a pre-poll procedure, a database consisting of the thumb impressions of all the eligible voters in a constituency is created. During elections, the thumb impression of a voter is entered as input to the system. This is then compared with the available records in the database. If the particular pattern matches with anyone in the available record, access to cast a vote is granted. But in case the pattern doesn’t match with the records of the database or in case of repetition, access to cast a vote is denied or the vote gets rejected.
+## Block Diagram
+![FINGER PRINT BASED ELECTRONIC VOTING MACHINE](https://user-images.githubusercontent.com/109785046/216296743-7e4fb9e4-969f-4c75-9ea1-7c90654dcbe6.png)
