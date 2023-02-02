@@ -1,4 +1,4 @@
-# Eye Blink And Movement Detection Based Vehicle Safety System
+# Eye Detection System Based on Image Processing for Vehicle Safety
 ## Abstract
 From year to year, the greater the level of traffic accidents caused by many factors, among the usual reasons is the loss of awareness of the driver when driving a vehicle especially drowsiness. One of the drowsiness parameters is the frequency eye blinks. Therefore, to get the drowsiness symptoms, the purpose of this research is to detect the eye blinks, which in turn reduce the level of accidents by detecting sleepy eyes based on digital image processing. And we can find drivers body movements to detect his other activities during driving if a persion is not concentrating in driving or making u usual movements in driving will reflect in his driving quality so by the help a set of pressure sensors we can find the movements and give proper alert and warnings to the person.<br>
 ## Introduction
