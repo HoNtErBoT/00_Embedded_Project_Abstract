@@ -1,6 +1,8 @@
-# Eye Detection System Based on Image Processing for Vehicle Safety
-## Abstract
+# Vehicle Safety System with Drowsiness Detection
+### Abstract
 The more advanced the technology and the greater the community's need to carry out activities every day, the number of vehicles on the highway is getting crowded. From year to year, the greater the level of traffic accidents caused by many factors, among the usual reasons is the loss of awareness of the driver when driving a vehicle especially drowsiness. One of the drowsiness parameters is the frequency eye blinks. Therefore, to get the drowsiness symptoms, the purpose of this research is to detect the eye blinks, which in turn reduce the level of accidents by detecting sleepy eyes based on digital image processing.<br>
-## Introduction
+### Introduction
 According to the latest report the most influential factor in the occurrence of fatal single-vehicle runoff-road crashes is the driver performance-related factor: falling asleep, followed by alcohol use and vehicle speed. Fatal crashes are associated with the driver’s drowsiness. Over the last decade, an increased amount of effort and technology have been developed to prevent and reduce the effect of human related crashes (e.g. airbags, ABS, park sensors). A new technology called “Drowsy Driver Detection System” (DDDS) , In this study, we present a fully automatic solution for handling the drowsy driver detection problem. Our system uses a standard webcam and detects the pattern of long duration eye-lid closures. The eye blink duration is the time spent while upper and lower eye-lids are connected. The pattern indicates a potential drowsiness prior to the driver falling asleep and then alerts the driver by alert sound. And also this system checks the presence of alcohol conception in the vehicle with the help of an alcohol sensor whenever such conditions occurs the system provides sufficient visual and audio alerts to driver and even after getting the alerts and warnings the driver continue ignore all safety warnings then the system will take over the vehicle and force driver to stop the vehicle by controlling the ignition system (stop the car).
+### Block Diagram
 
+![image](https://user-images.githubusercontent.com/109785046/216337879-4f224fac-c161-4f93-b564-918c6ab4af2c.png)
