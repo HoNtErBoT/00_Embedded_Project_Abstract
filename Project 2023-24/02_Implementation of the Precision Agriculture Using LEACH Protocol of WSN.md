@@ -10,5 +10,8 @@ Low Energy Adaptive Clustering Hierarchy (LEACH) is the first hierarchical clust
 ![image](https://github.com/HoNtErBoT/00_Embedded_Project_Abstract/assets/109785046/16e6a67e-c51a-4f68-9540-6ceb3b8f42cc)
 
 
+P13K
+
+
 
 
