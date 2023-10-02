@@ -27,3 +27,13 @@ In summary, "SecureFlow" represents a cutting-edge fusion of NFC and IoT technol
 - Arduino IDE
 - Embedded-c
 - Google Firebase
+
+  ## Block Diagram Traffic Junction
+
+  ![image](https://github.com/HoNtErBoT/00_Embedded_Project_Abstract/assets/109785046/d5d81294-7085-46f6-8926-5efd7710d59c)
+
+   ## Block Diagram Vehicle
+
+  ![image](https://github.com/HoNtErBoT/00_Embedded_Project_Abstract/assets/109785046/f8b4021b-11cc-43a0-b53d-cc94b5c13137)
+
+
