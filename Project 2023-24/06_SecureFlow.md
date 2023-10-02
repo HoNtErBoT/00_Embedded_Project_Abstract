@@ -10,3 +10,20 @@ Each vehicle in the system is equipped with an embedded module, forming a seamle
 For instance, the system excels in swiftly identifying drivers with invalid licenses, enhancing the aid post's ability to correlate individuals with the vehicles they operate. Moreover, the IoT integration facilitates instant retrieval of comprehensive records, including criminal history and involvement in illicit activities. This functionality significantly strengthens law enforcement's ability to identify and apprehend individuals associated with criminal activities and aids in the recovery of stolen vehicles.
 
 In summary, "SecureFlow" represents a cutting-edge fusion of NFC and IoT technologies in a Smart Traffic Management and Alert System. This integration not only optimizes traffic flow but also equips law enforcement with an intelligent and data-driven toolset to address security concerns efficiently and comprehensively.
+
+## Tools and Software used
+- Atmega 328
+- MFRC522 RFID Module
+- ASK433MHz
+- NFC TAG
+- ESP8266
+- 7805,7809 Voltage regulator IC
+- Some Resistor ,capacitor,Wire etc
+- LCD Module
+- I2C Serial to parellel Converter For LCD
+- SPST Push Button
+- Buzzer
+- etc
+- Arduino IDE
+- Embedded-c
+- Google Firebase
