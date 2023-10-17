@@ -14,29 +14,29 @@ The integration of Firebase as the central database adds a layer of accessibilit
 
 ### Hardware Components:
 ---------------------
-ESP8266 Microcontroller: ₹400 x 1 units = ₹400
-5V 4-Channel Relay Module: ₹300 x 1 units = ₹300
-2N2222 Transistors: ₹30 x 4 units = ₹120
-7805 Voltage Regulator: ₹16 x 3 units = ₹48
-7809 Voltage Regulator: ₹12 x 2 unit = ₹24
-Miscellaneous Components (wires, connectors, PCB, Casing, Power supplay): ₹1,900
-Total Hardware Cost: ₹2,792
+- ESP8266 Microcontroller: ₹400 x 1 units = ₹400
+- 5V 4-Channel Relay Module: ₹300 x 1 units = ₹300
+- 2N2222 Transistors: ₹30 x 4 units = ₹120
+- 7805 Voltage Regulator: ₹16 x 3 units = ₹48
+- 7809 Voltage Regulator: ₹12 x 2 unit = ₹24
+- Miscellaneous Components (wires, connectors, PCB, Casing, Power supplay): ₹1,900
+- Total Hardware Cost: ₹2,792
 
 
 ### Software and Development:
 --------------------------
-Android Application Development: ₹_____ (Please Check rate of android developer)
-Firebase Subscription (Starter Plan): ₹0/month  = ₹0
-Embedded Systems Programming (if outsourcing): ₹5,000
-Total Software and Development Cost: ₹5000+Android developer charge
+- Android Application Development: ₹_____ (Please Check rate of android developer)
+- Firebase Subscription (Starter Plan): ₹0/month  = ₹0
+- Embedded Systems Programming (if outsourcing): ₹5,000
+- Total Software and Development Cost: ₹5000+Android developer charge
 
 ### Testing and Prototyping:
 -------------------------
-Prototyping Boards and Materials: ₹600
-Testing Tools and Equipment: ₹1,000
-Total Testing and Prototyping Cost: ₹1,600
+- Prototyping Boards and Materials: ₹600
+- Testing Tools and Equipment: ₹1,000
+- Total Testing and Prototyping Cost: ₹1,600
 
 ### Contingency:
 ------------
-Unforeseen Expenses (10% of total budget): ₹----
-Total Contingency: ₹-----
+- Unforeseen Expenses (10% of total budget): ₹----
+- Total Contingency: ₹-----
