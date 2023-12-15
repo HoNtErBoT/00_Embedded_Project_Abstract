@@ -13,3 +13,6 @@ One of the key features of our project is its real-time monitoring capability. T
 Furthermore, the system incorporates a notification system that instantly alerts parents or guardians in the event of a student's absence without prior notice. This timely communication ensures that parents stay informed about their child's attendance, helping to address potential issues such as truancy or unforeseen circumstances.
 
 In conclusion, the Automated Classroom Attendance System offers a comprehensive solution to the challenges faced in tracking and notifying student attendance. By leveraging technology, our project contributes to the creation of a secure and vigilant educational environment, ultimately promoting the safety and well-being of students in today's complex society.
+
+![image](https://github.com/HoNtErBoT/00_Embedded_Project_Abstract/assets/109785046/95cf57a8-3d0d-435d-bc0d-d5f26654ebef)
+
