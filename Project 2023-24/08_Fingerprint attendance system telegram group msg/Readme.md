@@ -1,4 +1,4 @@
-Title: Automated Classroom Attendance System with Real-time Monitoring and Notifications
+# Automated Classroom Attendance System with Real-time Monitoring and Notifications
 
 Abstract:
 
