@@ -16,3 +16,6 @@ In conclusion, the Automated Classroom Attendance System offers a comprehensive 
 
 ![image](https://github.com/HoNtErBoT/00_Embedded_Project_Abstract/assets/109785046/95cf57a8-3d0d-435d-bc0d-d5f26654ebef)
 
+
+![photo_2023-12-08_12-23-36](https://github.com/HoNtErBoT/00_Embedded_Project_Abstract/assets/109785046/0f4be855-76f0-4aa2-9ef4-85305e0d0911)
+
